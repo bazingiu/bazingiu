@@ -7,8 +7,15 @@
 - 🌍 My experience includes working as a Software Engineer at Capgemini Engineering and Fincons Group where I specialized in building REST APIs with .NET Core, and creating dynamic web applications with Angular
 
 <div align="center">
-  [![Download English Resume][resume-en-shield]][resume-en-full-url] &nbsp;&nbsp; 
-  [![Download Italian Resume][resume-it-shield]][resume-it-full-url]
+  <!-- Badge per Curriculum in Italiano -->
+  <a href="https://github.com/bazingiu/Curricoulum-vitae/raw/main/Ita_CV.pdf" alt="Download Italian CV" style="display: inline-block; margin-right: 20px;">
+    <img src="https://img.shields.io/badge/Download%20Italian%20CV-green?style=for-the-badge&logo=download&logoColor=white&labelColor=darkgreen" width="200" />
+  </a>
+
+  <!-- Badge per Curriculum in Inglese -->
+  <a href="https://github.com/bazingiu/Curricoulum-vitae/raw/main/English_CV.pdf" alt="Download English CV" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Download%20English%20CV-blue?style=for-the-badge&logo=download&logoColor=white&labelColor=darkblue" width="200" />
+  </a>
 </div>
 
 ## 🧰 Technical Skills
@@ -64,8 +71,3 @@ The system guided users through industrial procedures, advancing only after veri
     <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"/>
   </a>  
 </p>
-
-[resume-short-shield]: https://img.shields.io/badge/Download%20Resume%20(Short)-blue?style=for-the-badge
-[resume-full-shield]: https://img.shields.io/badge/Download%20Resume%20(Full)-blue?style=for-the-badge
-[resume-en-full-url]: https://github.com/bazingiu/Curricoulum-vitae/blob/main/English_CV.pdf
-[resume-it-full-url]: https://github.com/bazingiu/Curricoulum-vitae/blob/main/Ita_CV.pdf

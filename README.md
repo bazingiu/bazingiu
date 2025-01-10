@@ -1,10 +1,15 @@
-## 👋 Hello! I'm Giulia 😃
+## 👋 Hi! I'm Giulia 😃
 
 - 📍 Born in Sicily 
 - 🎓 Software Engineer with a Bachelor’s degree in Computer Science from the University of Catania (110/110)
 - 💡 Passionate about software development, open source, and cutting-edge technologies
-- 🛠️ Love solving complex problems, building innovative solutions, and learning new skills.
-- 🌍 My experience includes working as a Software Engineer at Capgemini Engineering and Fincons Group where i specialized in  building REST APIs with .NET Core, and creating dynamic web applications with Angular
+- 🛠️ Love solving complex problems, building innovative solutions, and learning new skills
+- 🌍 My experience includes working as a Software Engineer at Capgemini Engineering and Fincons Group where I specialized in building REST APIs with .NET Core, and creating dynamic web applications with Angular
+
+<div align="center">
+  [![Download English Resume][resume-en-shield]][resume-en-full-url] &nbsp;&nbsp; 
+  [![Download Italian Resume][resume-it-shield]][resume-it-full-url]
+</div>
 
 ## 🧰 Technical Skills
 
@@ -59,3 +64,8 @@ The system guided users through industrial procedures, advancing only after veri
     <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"/>
   </a>  
 </p>
+
+[resume-short-shield]: https://img.shields.io/badge/Download%20Resume%20(Short)-blue?style=for-the-badge
+[resume-full-shield]: https://img.shields.io/badge/Download%20Resume%20(Full)-blue?style=for-the-badge
+[resume-en-full-url]: https://github.com/bazingiu/Curricoulum-vitae/blob/main/English_CV.pdf
+[resume-it-full-url]: https://github.com/bazingiu/Curricoulum-vitae/blob/main/Ita_CV.pdf

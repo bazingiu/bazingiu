@@ -46,9 +46,8 @@
   <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> 
 </p>
 
-## 🎓 Highlights
-**Bachelor's Thesis:**
-Title: Monitoring and Verifying Procedures through the Understanding of Human-Object Interaction Sequences
+## 🎓 Bachelor's Thesis:
+**Title**: Monitoring and Verifying Procedures through the Understanding of Human-Object Interaction Sequences
 
 **Description:**
 Designed an application leveraging text-to-speech technology and real-time interaction detection.

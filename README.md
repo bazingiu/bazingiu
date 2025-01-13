@@ -47,10 +47,10 @@
 </p>
 
 ## 🎓 Highlights
-Bachelor's Thesis:
+**Bachelor's Thesis:**
 Title: Monitoring and Verifying Procedures through the Understanding of Human-Object Interaction Sequences
 
-Description:
+**Description:**
 Designed an application leveraging text-to-speech technology and real-time interaction detection.
 The system guided users through industrial procedures, advancing only after verifying correct interactions using EHOI (Egocentric Human-Object Interaction) detection.
 

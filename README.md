@@ -8,12 +8,12 @@
 
 <div align="center">
   <!-- Badge per Curriculum in Italiano -->
-  <a href="https://github.com/bazingiu/Curricoulum-vitae/raw/main/Ita_CV.pdf" alt="Download Italian CV" style="display: inline-block; margin-right: 20px;">
+  <a href="https://github.com/bazingiu/Curricoulum-vitae/blob/main/Italiano_Giulia_Meo_CV.pdf" alt="Italian CV" style="display: inline-block; margin-right: 20px;">
     <img src="https://img.shields.io/badge/Download%20Italian%20CV-green?style=for-the-badge&logo=download&logoColor=white&labelColor=darkgreen" width="200" />
   </a>
 
   <!-- Badge per Curriculum in Inglese -->
-  <a href="https://github.com/bazingiu/Curricoulum-vitae/raw/main/English_CV.pdf" alt="Download English CV" style="display: inline-block;">
+  <a href="https://github.com/bazingiu/Curricoulum-vitae/blob/main/English_Giulia_Meo_CV.pdf" alt="English CV" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Download%20English%20CV-blue?style=for-the-badge&logo=download&logoColor=white&labelColor=darkblue" width="200" />
   </a>
 </div>

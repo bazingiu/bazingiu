@@ -3,20 +3,14 @@
 - 📍 Born in Sicily 
 - 🎓 Software Engineer with a Bachelor’s degree in Computer Science from the University of Catania (110/110)
 - 💡 Passionate about software development, open source, and cutting-edge technologies
-- 🛠️ Love solving complex problems, building innovative solutions, and learning new skills
-- 🌍 My experience includes working as a Software Engineer at Capgemini Engineering and Fincons Group where I specialized in building REST APIs with .NET Core, and creating dynamic web applications with Angular
-
-<div align="center">
-  <!-- Badge per Curriculum in Italiano -->
-  <a href="https://github.com/bazingiu/Curricoulum-vitae/blob/main/Italiano_Giulia_Meo_CV.pdf" alt="Italian CV" style="display: inline-block; margin-right: 20px;">
-    <img src="https://img.shields.io/badge/Italian%20CV-green?style=for-the-badge&logo=download&logoColor=white&labelColor=darkgreen" width="200" />
-  </a>
-
-  <!-- Badge per Curriculum in Inglese -->
-  <a href="https://github.com/bazingiu/Curricoulum-vitae/blob/main/English_Giulia_Meo_CV.pdf" alt="English CV" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/English%20CV-blue?style=for-the-badge&logo=download&logoColor=white&labelColor=darkblue" width="200" />
-  </a>
-</div>
+- 📱 My professional background centers on Full-Stack & Mobile development, building robust web architectures
+- 🤖 Currently diving deep into AI & Agentic Engineering
+      
+<p align="center">
+  <a href="https://github.com/bazingiu/Curricoulum-vitae/blob/main/Italiano_Giulia_Meo_CV.pdf"><img src="https://img.shields.io/badge/Italian%20CV-green?style=for-the-badge&logo=download&logoColor=white&labelColor=darkgreen" width="200" alt="Italian CV"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/bazingiu/Curricoulum-vitae/blob/main/English_Giulia_Meo_CV.pdf"><img src="https://img.shields.io/badge/English%20CV-blue?style=for-the-badge&logo=download&logoColor=white&labelColor=darkblue" width="200" alt="English CV"></a>
+</p>
 
 ## 🧰 Technical Skills
 

@@ -6,8 +6,6 @@
 - 📱 My professional background centers on Full-Stack & Mobile development, building robust web architectures
 - 🤖 Currently diving deep into AI & Agentic Engineering
 
-<br />
-
 <p align="center">
   <a href="https://github.com/bazingiu/Curricoulum-vitae/blob/main/Italiano_Giulia_Meo_CV.pdf"><img src="https://img.shields.io/badge/Italian%20CV-green?style=for-the-badge&logo=download&logoColor=white&labelColor=darkgreen" width="200" alt="Italian CV"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;

@@ -5,7 +5,9 @@
 - 💡 Passionate about software development, open source, and cutting-edge technologies
 - 📱 My professional background centers on Full-Stack & Mobile development, building robust web architectures
 - 🤖 Currently diving deep into AI & Agentic Engineering
-      
+
+<br />
+
 <p align="center">
   <a href="https://github.com/bazingiu/Curricoulum-vitae/blob/main/Italiano_Giulia_Meo_CV.pdf"><img src="https://img.shields.io/badge/Italian%20CV-green?style=for-the-badge&logo=download&logoColor=white&labelColor=darkgreen" width="200" alt="Italian CV"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,13 +72,9 @@ The system guided users through industrial procedures, advancing only after veri
 
 ## 📬 Get in Touch
 <p align="left">
-  <a title="Gmail" href="mailto:giulia.meo.dev@gmail.com">
-    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail"/>
-  </a>
-  <a title="LinkedIn" href="https://www.linkedin.com/in/giulia-meo/">
-    <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn"/>
-  </a>
-  <a title="LeetCode" href="https://leetcode.com/u/xjBrJ3n3UT/">
-    <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"/>
-  </a>  
+  <a title="Gmail" href="mailto:giulia.meo.dev@gmail.com"><img width="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" /></a>
+  &nbsp;
+  <a title="LinkedIn" href="https://www.linkedin.com/in/giulia-meo/"><img width="35" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
+  &nbsp;
+  <a title="LeetCode" href="https://leetcode.com/u/xjBrJ3n3UT/"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /></a>  
 </p>
